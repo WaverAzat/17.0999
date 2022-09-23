@@ -1,0 +1,15 @@
+/Users/azatsaifullin/Projects/17.09/hm17.09/bin/Debug/net6.0/hm17.09
+/Users/azatsaifullin/Projects/17.09/hm17.09/bin/Debug/net6.0/hm17.09.deps.json
+/Users/azatsaifullin/Projects/17.09/hm17.09/bin/Debug/net6.0/hm17.09.runtimeconfig.json
+/Users/azatsaifullin/Projects/17.09/hm17.09/bin/Debug/net6.0/hm17.09.dll
+/Users/azatsaifullin/Projects/17.09/hm17.09/bin/Debug/net6.0/hm17.09.pdb
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.csproj.AssemblyReference.cache
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.AssemblyInfoInputs.cache
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.AssemblyInfo.cs
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.csproj.CoreCompileInputs.cache
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.dll
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/refint/hm17.09.dll
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.pdb
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/hm17.09.genruntimeconfig.cache
+/Users/azatsaifullin/Projects/17.09/hm17.09/obj/Debug/net6.0/ref/hm17.09.dll
